@@ -32,29 +32,29 @@ OLA.pbix – Power BI dashboard file
 
 📊 Key Analysis & Insights
 
-Booking trends and ride status distribution
+1. Booking trends and ride status distribution
 
-Top customers by number of rides
+2. Top customers by number of rides
 
-Revenue analysis by payment method
+3. Revenue analysis by payment method
 
-Vehicle type performance
+4. Vehicle type performance
 
-Cancellation reasons and patterns
+5. Cancellation reasons and patterns
 
 📈 Dashboard Features
 
 The Power BI dashboard includes:
 
-Overall booking overview
+1. Overall booking overview
 
-Revenue and customer insights
+2. Revenue and customer insights
 
-Cancellation analysis
+3. Cancellation analysis
 
-Vehicle type distribution
+4. Vehicle type distribution
 
-Interactive filters for deep-dive analysis
+5. Interactive filters for deep-dive analysis
 
 🚀 How to Run
 
@@ -66,15 +66,15 @@ Open OLA.pbix in Power BI Desktop to explore the dashboard
 
 💡 What I Learned
 
-Handling large datasets efficiently
+. Handling large datasets efficiently
 
-Writing optimized SQL queries for business questions
+. Writing optimized SQL queries for business questions
 
-Designing clean, insightful dashboards in Power BI
+. Designing clean, insightful dashboards in Power BI
 
-Translating raw data into actionable insights
+. Translating raw data into actionable insights
 
 👤 Author
 
 Pranav Goenka
-Aspiring Data Analyst | SQL | Power BI | Data Analytics
+Aspiring Business Analyst| Data Analyst | SQL | Power BI | Data Analytics
